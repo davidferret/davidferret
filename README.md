@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidferret!
 - 👀 I’m interested in embedded systems, networking, hands-on projects, and exploring the intersection of technology and innovation. 
-- 🌱 I’m currently learning advanced programming techniques and data analysis while pursuing my Bachelor's in Computer Engineering at Florida International University.
+- 🌱 I’m currently learning advanced programming and circuits analysis while pursuing my Bachelor's in Computer Engineering at Florida International University.
 - 💞️ I’m looking to collaborate on projects involving software and hardware, web development, or innovative tech solutions that solve real-world problems.  
 - 📫 How to reach me: Feel free to email me at dferr097@fiu.edu or connect with me on LinkedIn at linkedin.com/in/davidferret.  
 - 😄 Pronouns: He/Him
